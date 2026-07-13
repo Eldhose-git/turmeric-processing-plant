@@ -1,0 +1,18 @@
+# Local Codex working directories
+work/
+outputs/
+
+# Operating-system files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor settings
+.idea/
+.vscode/
+
+# Temporary files
+*.log
+*.tmp
+*.temp
+~$*
