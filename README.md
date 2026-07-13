@@ -4,7 +4,7 @@ Project engineering portfolio for the installation and commissioning of **Turmer
 
 | Project detail | Description |
 | --- | --- |
-| Role | Project Engineer Intern |
+| Role | Engineering Intern (project) |
 | Project scope | Planning, procurement, installation, and commissioning of a turmeric processing line |
 | Organization | Olam Food Ingredients (ofi) |
 | Full report | [Turmeric Processing Plant Project Report](docs/Turmeric_Processing_Plant_Project_Report.pdf) |
